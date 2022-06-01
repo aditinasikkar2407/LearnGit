@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	int division=4/2;
+	int division=6/2;
 	cout<<division<<endl;
 	return 0;
 }
